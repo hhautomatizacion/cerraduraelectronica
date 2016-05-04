@@ -11,3 +11,13 @@
 * Fotos
 
 * Capturas de pantalla
+
+---
+![DSC03122.JPG](/Fotos/DSC03122.JPG)
+---
+![DSC03123.JPG](/Fotos/DSC03123.JPG)
+---
+![DSC03124.JPG](/Fotos/DSC03124.JPG)
+---
+![DSC03125.JPG](/Fotos/DSC03125.JPG)
+---
